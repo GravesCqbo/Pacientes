@@ -1,4 +1,4 @@
-Taller Testing, Semana 3, Actividad Sumativa. Grupo de Karla Pesce R., Sergio Molina V. y Jaime Codoceo C.
+Taller Testing, Semana 3, Actividad Sumativa. PRO402-9527-225081-ONL. Grupo de Karla Pesce R., Sergio Molina V. y Jaime Codoceo C.
 realizado en google sheets con Apps Script.
 
 Acceso formulario:
